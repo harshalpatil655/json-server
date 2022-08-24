@@ -114,8 +114,8 @@
     },
     {
       "id": 16,
-      "name": "Japanese Cherry Blossom",
-      "price": 120,
+      "name": "Japanese-cherry Blossom",
+      "price": 12,
       "title": "daily nourishing body lotion",
       "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw619ff485/crop/026480509_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
       "category": "moisturizers"
@@ -146,18 +146,18 @@
     },
     {
       "id": 19,
-      "name": "Enchanted Candy Potion",
-      "price": 18,
-      "title": "Ultimate Hydration Body Cream",
-      "image": "",
+      "name": "Champagne Apple & Honey",
+      "price": 10,
+      "title": "Lip balm",
+      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7b5cc790/crop/026477891_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
       "category": "moisturizers"
     },
     {
       "id": 20,
-      "name": "Coffee & Whisky",
+      "name": "Teakwood",
       "price": 16,
-      "title": "shea butter cleasing bar",
-      "image": "",
+      "title": "3-in-1 hair,face & body wash",
+      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc6262222/crop/026177563_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
       "category": "bath & body"
     },
     {
